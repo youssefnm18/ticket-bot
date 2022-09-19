@@ -517,4 +517,4 @@ client.on("message", async message => {
   });
 
 
-client.login("NzE5MTcxMTYyMTE0MDk3MTk2.XtziWw.KnswkJOh9jS5n2UWjKpIuiZHxRY");
+client.login("MTAwMjIyNDMzMTMxNDY5NjIwMg.GfYvFE.4pzTPyku8rvl3NSU31DEmYMHLMLpDAeKhpJcw4");
